@@ -19,8 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/craftcms/craftcms-original.svg" height="40" alt="CraftCMS logo" />
-  <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" height="40" alt="GSAP logo" />
+  <img src="https://www.true.nl/wp-content/uploads/2015/07/Craft-cms-300x300.png" height="40" alt="CraftCMS logo" />
 </div>
 
 ---
