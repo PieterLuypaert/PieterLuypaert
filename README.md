@@ -20,9 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/craftcms/craftcms-original.svg" height="40" alt="CraftCMS logo" />
-  <img src="![image](https://github.com/user-attachments/assets/0f1c9d00-e33b-4bad-ace8-b47121abed30)
-" height="40" alt="GSAP logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS logo" />
+  <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" height="40" alt="GSAP logo" />
 </div>
 
 ---
