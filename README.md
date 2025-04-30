@@ -3,13 +3,11 @@
 
 ---
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQGy0LIUFZq5Bw/profile-displayphoto-shrink_800_800/B4EZXIfZjaHMAc-/0/1742825429707?e=1748476800&v=beta&t=s9S_mkQCcSFp0" alt="Pieter Luypaert">
-
 ### Over mij
-- 🌱 Altijd bezig met leren, momenteel verdiep ik mij in **React.js** en **Node.js**.
+- 🌱 Altijd bezig met leren.
 - 🎯 Mijn focus ligt op het bouwen van schaalbare en efficiënte webapplicaties.
 - 💼 Werkervaring in **frontend** en **backend** ontwikkeling.
-- 🎨 Interesse in UI/UX design met tools zoals **Figma**.
+- 🎨 Interesse in UI/UX design.
 
 ---
 
@@ -21,9 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/craftcms/craftcms-original.svg" height="40" alt="CraftCMS logo" />
+  <img src="https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js" height="40" alt="GSAP logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS logo" />
 </div>
-
----
 
 ---
 
