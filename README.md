@@ -28,10 +28,6 @@
 - LinkedIn: [Pieter Luypaert](https://www.linkedin.com/in/pieter-luypaert-85aba3357/)
 - Portfolio: [www.pieterluypaert.com](#)
 
----
-
-### 📊 Statistieken
-![Pieter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PieterLuypaert&show_icons=true&theme=radical)
 
 ---
 
