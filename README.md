@@ -2,7 +2,7 @@
 
 ---
 
-### 🛠️ Vaardigheden
+### 🛠️ Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -24,8 +24,4 @@
 
 ---
 
-### 📊 GitHub Statistieken
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PieterLuypaert&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
