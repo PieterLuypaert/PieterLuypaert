@@ -23,17 +23,6 @@
   <img src="https://img.shields.io/badge/Craft_CMS-E5422B?style=for-the-badge&logo=craft-cms&logoColor=white" alt="Craft CMS"/>
 </div>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pieterluypaert&show_icons=true&theme=github_dark&hide_border=true" alt="Pieter's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pieterluypaert&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <!-- What I Do Section -->
 ## 🚀 Wat ik doe
 
