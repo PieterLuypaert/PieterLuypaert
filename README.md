@@ -1,6 +1,6 @@
 <!-- Banner Header with animated greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hallo+Ik+ben+Pieter+Luypaert+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hallo%2C+Ik+ben+Pieter+Luypaert+%F0%9F%91%8B;Full-Stack+Developer;Web+Craftsman" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,6 +23,40 @@
   <img src="https://img.shields.io/badge/Craft_CMS-E5422B?style=for-the-badge&logo=craft-cms&logoColor=white" alt="Craft CMS"/>
 </div>
 
+<!-- Cool Skills Visualization -->
+## 🛠️ Skills & Tools
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieterluypaert&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<!-- Animated Skill Bars -->
+<div align="center">
+
+```text
+JavaScript  ███████████████░░░  85%
+HTML5       ██████████████████  100%
+CSS3        ████████████████░░  90%
+PHP         █████████████░░░░░  75%
+MySQL       ███████████░░░░░░░  65%
+Docker      █████████░░░░░░░░░  50%
+Craft CMS   ███████████████░░░  85%
+```
+</div>
+
+<!-- Projects Showcase -->
+## 🚀 Projects Showcase
+
+<div align="center">
+  <a href="https://github.com/username/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pieterluypaert&repo=project1&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/username/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pieterluypaert&repo=project2&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+
 <!-- What I Do Section -->
 ## 🚀 Wat ik doe
 
@@ -34,6 +68,25 @@ const pieter = {
   currentlyLearning: "Always expanding my skillset"
 };
 ```
+
+<!-- Creative Contribution Graph -->
+<div align="center">
+  
+  ![Snake animation](https://github.com/{username}/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<!-- Quote of the Day -->
+<div align="center">
+  
+  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pieterluypaert&color=blue" alt="Profile Views" />
+</div>
 
 <!-- Wave Footer -->
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/footer-banner.gif" width="100%">
