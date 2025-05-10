@@ -1,16 +1,4 @@
 <h1 align="center">👋 Hallo! Ik ben Pieter Luypaert</h1>
-<h3 align="center">🚀 Innovatieve Ontwikkelaar | 💡 Technologie Enthousiasteling | 🎨 UI/UX Fan</h3>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/cool-animation.gif" alt="Cool Animation" height="200">
-</p>
-
-<p align="center">
-  💻 Code is my canvas, and innovation is my masterpiece. <br>
-  🔥 Let's build something extraordinary together.
-</p>
 
 ---
 
@@ -32,12 +20,17 @@
   <a href="https://www.linkedin.com/in/pieter-luypaert-85aba3357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pieter%20Luypaert-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.pieterluypaert.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pieterluypaert.com-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio">
-  </a>
 </p>
 
 ---
 
-### ✨ Quote
-> "Code is not just a tool – it's a language for creating the future."
+### 📊 GitHub Statistieken
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PieterLuypaert&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PieterLuypaert&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PieterLuypaert&layout=compact&theme=radical" alt="Top Languages" />
+</p>
