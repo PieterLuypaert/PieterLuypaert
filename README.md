@@ -3,11 +3,14 @@
 
 ---
 
-### 🌟 Over Mij
-- 🌱 Altijd op zoek naar nieuwe technologieën en kennis.
-- 🎯 Focus: Schaalbare, efficiënte webapplicaties met een oog voor design.
-- 🔧 Expertise in **frontend**, **backend** en **UI/UX design**.
-- 🌍 Gebaseerd in België, werkend aan wereldwijde oplossingen.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/cool-animation.gif" alt="Cool Animation" height="200">
+</p>
+
+<p align="center">
+  💻 Code is my canvas, and innovation is my masterpiece. <br>
+  🔥 Let's build something extraordinary together.
+</p>
 
 ---
 
@@ -37,4 +40,4 @@
 ---
 
 ### ✨ Quote
-> "Blijf leren en blijf verbeteren!"
+> "Code is not just a tool – it's a language for creating the future."
