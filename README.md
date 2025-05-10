@@ -46,10 +46,5 @@ const pieter = {
 };
 ```
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pieterluypaert&color=blue" alt="Profile Views" />
-</div>
-
 <!-- Wave Footer -->
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/footer-banner.gif" width="100%">
