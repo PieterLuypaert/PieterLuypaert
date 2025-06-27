@@ -1,17 +1,16 @@
 
 #  Pieter Luypaert
 
-Welkom op mijn GitHub-profiel!  
 Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
-[🌐 pieterluypaert.be](https://pieterluypaert.be) 
+[pieterluypaert.be](https://pieterluypaert.be) 
 
 [LinkedIn](https://www.linkedin.com/in/pieter-luypaert-85aba3357/)
 
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -29,7 +28,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
 
 
-## 📫 Contact
+## Contact
 
 - Website: [pieterluypaert.be](https://pieterluypaert.be)
 - LinkedIn: [Pieter Luypaert](https://www.linkedin.com/in/pieter-luypaert-85aba3357/)
