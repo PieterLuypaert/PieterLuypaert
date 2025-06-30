@@ -1,4 +1,3 @@
-
 #  Pieter Luypaert
 
 Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
@@ -6,7 +5,6 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 [pieterluypaert.be](https://pieterluypaert.be) 
 
 [LinkedIn](https://www.linkedin.com/in/pieter-luypaert-85aba3357/)
-
 
 ---
 
