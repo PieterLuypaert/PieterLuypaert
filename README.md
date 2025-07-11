@@ -1,6 +1,6 @@
 #  Pieter Luypaert
 
-Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
+Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën. 
 
 [pieterluypaert.be](https://pieterluypaert.be) 
 
