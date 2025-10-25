@@ -32,7 +32,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://motion.dev/favicon.svg" width="48" height="48" alt="Motion"/><br/>Motion
+<img src="https://raw.githubusercontent.com/<jouw-gebruikersnaam>/<repo>/main/assets/motion.svg" width="48" height="48" alt="Motion"/><br/>Motion
 </td>
 <td align="center" width="140">
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP"/><br/>GSAP
