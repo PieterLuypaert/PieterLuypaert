@@ -7,7 +7,6 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 [LinkedIn](https://www.linkedin.com/in/pieter-luypaert-85aba3357/)
 
 ---
-
 ## Tech Stack
 
 <div align="center">
@@ -31,7 +30,6 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </td>
 </tr>
 <tr>
-
 <td align="center" width="140">
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP"/><br/>GSAP
 </td>
@@ -44,8 +42,14 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js
 </td>
+<td align="center" width="140">
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br/>Express.js
+</td>
 </tr>
 <tr>
+<td align="center" width="140">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br/>Tailwind
+</td>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="SQL"/><br/>SQL
 </td>
@@ -58,6 +62,8 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git
 </td>
+</tr>
+<tr>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>VS Code
 </td>
@@ -65,6 +71,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </table>
 
 </div>
+
 
 
 
