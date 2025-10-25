@@ -44,7 +44,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="SQL"/><br/>SQL
 </td>
 <td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=craftcms" width="48" height="48" alt="CraftCMS"/><br/>Craft CMS
+  <img src="https://cdn.simpleicons.org/craftcms/E5422B" width="48" height="48" alt="Craft CMS"/><br/>Craft CMS
 </td>
 </tr>
 <tr>
