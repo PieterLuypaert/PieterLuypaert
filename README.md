@@ -51,6 +51,9 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br/>Tailwind
 </td>
 <td align="center" width="140">
+  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite"/><br/>Vite
+</td>
+<td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="SQL"/><br/>SQL
 </td>
 <td align="center" width="140">
@@ -59,11 +62,11 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>Docker
 </td>
+</tr>
+<tr>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>Git
 </td>
-</tr>
-<tr>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/>VS Code
 </td>
@@ -71,6 +74,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </table>
 
 </div>
+
 
 
 
