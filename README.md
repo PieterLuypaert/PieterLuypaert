@@ -32,7 +32,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/motion.svg" width="48" height="48" alt="Motion"/><br/>Motion
+<img src="https://img.icons8.com/ios-filled/50/000000/motion.png" width="48" height="48" alt="Motion"/>
 </td>
 
 <td align="center" width="140">
