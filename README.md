@@ -31,9 +31,6 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </td>
 </tr>
 <tr>
-<td align="center" width="140">
-<img src="https://img.icons8.com/ios-filled/50/000000/motion.png" width="48" height="48" alt="Motion"/>
-</td>
 
 <td align="center" width="140">
   <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP"/><br/>GSAP
