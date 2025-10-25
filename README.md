@@ -32,6 +32,12 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </tr>
 <tr>
 <td align="center" width="140">
+  <img src="https://cdn.simpleicons.org/framermotion/0055FF" width="48" height="48" alt="Framer Motion"/><br/>Framer Motion
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" width="48" height="48" alt="GSAP"/><br/>GSAP
+</td>
+<td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/><br/>PHP
 </td>
 <td align="center" width="140">
@@ -40,14 +46,14 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>Node.js
 </td>
+</tr>
+<tr>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="SQL"/><br/>SQL
 </td>
 <td align="center" width="140">
   <img src="https://cdn.simpleicons.org/craftcms/E5422B" width="48" height="48" alt="Craft CMS"/><br/>Craft CMS
 </td>
-</tr>
-<tr>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>Docker
 </td>
@@ -61,6 +67,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </table>
 
 </div>
+
 
 
 
