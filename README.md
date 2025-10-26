@@ -60,6 +60,9 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 </td>
 </tr>
 <tr>
+  <td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="48" height="48" alt="Framer Motion"/><br/>Framer Motion
+</td>
 <td align="center" width="140">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>Docker
 </td>
