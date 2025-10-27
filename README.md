@@ -79,6 +79,7 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
 ---
 
+
 ## Contact
 
 - Website: [pieterluypaert.be](https://pieterluypaert.be)
