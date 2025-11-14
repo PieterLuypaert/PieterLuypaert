@@ -8,33 +8,20 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
 ### Frontend
 
-<div style="display: flex; gap: 24px;">
-
-<div>
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-</div>
-
-<div>
-
-- React
-- Next.js
-- Vue.js
-- GSAP
-</div>
-
-<div>
-
-- Tailwind CSS
-- Vite
-- Webpack
-- Framer Motion
-</div>
-
-</div>
+<ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>Vue.js</li>
+  <li>GSAP</li>
+  <li>Tailwind CSS</li>
+  <li>Vite</li>
+  <li>Webpack</li>
+  <li>Framer Motion</li>
+</ul>
 
 ### **Backend**
 - PHP  
