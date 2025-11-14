@@ -6,22 +6,13 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
 ## Tech Stack
 
-### Frontend
-
-<ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Vue.js</li>
-  <li>GSAP</li>
-  <li>Tailwind CSS</li>
-  <li>Vite</li>
-  <li>Webpack</li>
-  <li>Framer Motion</li>
-</ul>
+### **Frontend**
+- HTML        - CSS  
+- JavaScript  - TypeScript  
+- React       - Next.js  
+- Vue.js      - GSAP  
+- Vite        - Webpack  
+- Framer      - Tailwind CSS  
 
 ### **Backend**
 - PHP  
