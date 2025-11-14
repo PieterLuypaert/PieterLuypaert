@@ -6,19 +6,35 @@ Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
 
 ## Tech Stack
 
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- React  
-- Next.js  
-- Vue.js  
-- GSAP  
-- Tailwind CSS  
-- Vite  
-- Webpack  
-- Framer Motion  
+### Frontend
+
+<div style="display: flex; gap: 24px;">
+
+<div>
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+</div>
+
+<div>
+
+- React
+- Next.js
+- Vue.js
+- GSAP
+</div>
+
+<div>
+
+- Tailwind CSS
+- Vite
+- Webpack
+- Framer Motion
+</div>
+
+</div>
 
 ### **Backend**
 - PHP  
