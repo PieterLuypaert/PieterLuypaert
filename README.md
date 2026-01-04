@@ -1,7 +1,6 @@
 # Pieter Luypaert
 
-Webdeveloper, vintage fan en altijd op zoek naar nieuwe technologieën.
-
+Fullstack developer
 
 ---
 
