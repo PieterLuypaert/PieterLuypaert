@@ -19,7 +19,8 @@ Prisma
 
 ### **Tools & Overig**
 SQL (PostgreSQL) • Craft CMS  
-Docker • Git • VS Code  
+Docker • Git • VS Code • Blender 
+Figma • Git
 
 ---
 
