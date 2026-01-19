@@ -10,12 +10,12 @@ Fullstack developer
 HTML • CSS • JavaScript • TypeScript  
 React • Next.js • Vue.js  
 GSAP • Framer • Tailwind CSS  
-Vite • Webpack  
+Vite • Webpack • React Native
 
 ### **Backend**
 PHP • Laravel  
 Node.js • Express.js  
-Prisma  
+Prisma • Supabase 
 
 ### **Tools & Overig**
 SQL (PostgreSQL) • Craft CMS  
