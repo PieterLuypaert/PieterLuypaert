@@ -4,7 +4,6 @@ Fullstack developer
 
 ---
 
-
 ## Tech Stack
 
 ### **Frontend**
