@@ -21,7 +21,7 @@ Prisma • Supabase
 ### **Tools & Overig**
 SQL (PostgreSQL) • Craft CMS  
 Docker • Git • VS Code • Blender •
-Figma • Git
+Figma • 
 
 ---
 
