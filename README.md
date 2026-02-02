@@ -2,8 +2,7 @@
 
 Fullstack developer
 
-![My GitHub Game](game.gif)
----
+![Space Shooter Game](https://github.com/PieterLuypaert/gh-space-shooter/blob/main/game.gif?raw=true)---
 
 ## Tech Stack
 
