@@ -2,6 +2,7 @@
 
 Fullstack developer
 
+![My GitHub Game](game.gif)
 ---
 
 ## Tech Stack
